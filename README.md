@@ -1,2 +1,5 @@
-# prova-quarta
-Repository di prova che verrà immediatamente cancellato
+# Appunti di quarta
+
+In questo repository verranno messi gli esercizi che svilupperemo durante l'anno
+
+## Primo esercizio
